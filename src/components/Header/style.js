@@ -5,7 +5,7 @@ export const Container = styled.section`
   display: flex;
   justify-content: space-between;
   padding: 20px 0px;
-  border-bottom: 1px solid #f8fafb;
+  border-bottom: 2px solid #f8fafb;
 
   img {
     padding: 0px 20px;

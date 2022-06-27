@@ -1,4 +1,4 @@
-import {createGlobalStyle} from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
     :root{
@@ -42,5 +42,9 @@ export const GlobalStyle = createGlobalStyle`
         display: block;
         font-size: 1rem;
         font-family: var(--text-primerio);
+    }
+
+    .dashboard{
+        display: flex;
     }
 `;
